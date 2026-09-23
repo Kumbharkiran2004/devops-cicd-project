@@ -105,23 +105,6 @@ Configure these variables in **GitLab → Settings → CI/CD → Variables**:
 
 > **Security:** Never commit a private SSH key to the repository. Store it as a protected/masked CI/CD variable.
 
-## 📸 Project Screenshots
-
-### 1. GitLab Repository
-
-![GitLab Repository](screenshots/gitlab-repository.png)
-
-### 2. Docker Deployment on EC2
-
-![Docker Deployment Terminal](screenshots/docker-deployment-terminal.png)
-
-### 3. Successful GitLab CI/CD Pipeline
-
-![Successful GitLab CI/CD Pipeline](screenshots/gitlab-pipeline-success.png)
-
-### 4. Application Running on AWS EC2
-
-![Application Running on AWS EC2](screenshots/ec2-deployed-website.png)
 
 ## 🌐 Deployment
 
